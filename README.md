@@ -5,3 +5,5 @@
       <img alt="snake" src="">
     </picture>
 </p>
+
+to view old projects, check out this github org - https://github.com/orgs/duckyfuz-archive/repositories
